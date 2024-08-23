@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-bot_horoscope/static/css/main.20567b28.css",
+    "main.js": "/test-bot_horoscope/static/js/main.2b895f91.js",
+    "index.html": "/test-bot_horoscope/index.html",
+    "main.20567b28.css.map": "/test-bot_horoscope/static/css/main.20567b28.css.map",
+    "main.2b895f91.js.map": "/test-bot_horoscope/static/js/main.2b895f91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20567b28.css",
+    "static/js/main.2b895f91.js"
+  ]
+}
