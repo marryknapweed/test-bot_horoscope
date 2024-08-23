@@ -1,0 +1,38 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.zodiac-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.zodiac-item {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 20px;
+  width: 150px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.zodiac-item:hover {
+  background-color: #f0f0f0;
+}
+
+.zodiac-icon {
+  font-size: 24px;
+}
+
+.zodiac-description {
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
