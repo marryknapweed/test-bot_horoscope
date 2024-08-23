@@ -9,6 +9,6 @@ bot.onText(/\/start/, msg => {
   const chatId = msg.chat.id;
   bot.sendMessage(
     chatId,
-    "Добро пожаловать! Вот ссылка на наше приложение: https://marryknapweed.github.io/wedding-invitation/"
+    "Добро пожаловать! Вот ссылка на наше приложение: https://marryknapweed.github.io/test-bot_horoscope/"
   );
 });
